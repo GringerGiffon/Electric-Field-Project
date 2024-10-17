@@ -1,5 +1,11 @@
 # Electric-Field-Project
-You can see the electric field lines by inputting different types of charges 
+You can see the electric field lines by inputting different types of charges in pygame. The output will be in matplotlib.
+
+It is a collaborative project between me and two other classmates. My classmates were in charge of coding the theory part of the electric fields (see test_matrix_rod.py; matplotlib)
+I was in charge of the visualizing part (by using the pygame module; visualize.py).
+
+A project that spanned during October, while having classes.
+
 
 
 
