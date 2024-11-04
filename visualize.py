@@ -21,6 +21,7 @@ def input():
     screen = pygame.display.set_mode(size)
     done = False
     clock = pygame.time.Clock()
+    pygame.display.set_caption('Electric Field Project')
 
 
     left_click = False 
