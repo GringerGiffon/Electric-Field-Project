@@ -1,4 +1,4 @@
-import charge_interface_folder.visualize as Vz
+import visualize as Vz
 import test_matrix_rod as mn
 import numpy as np
 
